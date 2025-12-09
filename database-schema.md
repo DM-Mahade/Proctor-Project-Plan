@@ -12,6 +12,7 @@ The system uses **MySQL** for core structured data and **MongoDB** for AI procto
 
 ![AI Proctor Schema](AI-proctor-Schema.png)
 
+---
 
 ### **2️⃣ MySQL Database Schema Diagram**
 
