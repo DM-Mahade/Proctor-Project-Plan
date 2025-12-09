@@ -46,9 +46,8 @@ Each microservice has its own responsibilities, database layer, internal APIs, a
 Below is the system architecture diagram used to visualise microservices, data flow, and infrastructure.
 
 
-```markdown
 ![Architecture Diagram](architecture-diagram.png)
-```
+
 
 ---
 
