@@ -50,7 +50,7 @@ Below is the system architecture diagram used to visualise microservices, data f
 Example:
 
 ```markdown
-![Architecture Diagram](./architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 ```
 
 ---
