@@ -15,7 +15,7 @@ The system consists of:
 ### **🔹 Frontend (Web Application)**
 
 * Built using **React.js**
-* Student & Professor dashboards
+* Student , Admin & Professor dashboards
 * Exam UI with autosave, timer protection, and secure environment
 * Integrated camera/microphone access for proctoring
 * Real-time monitoring UI for professors
