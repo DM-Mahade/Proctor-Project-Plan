@@ -57,10 +57,9 @@ This planning repo contains the overall system outline.
 Detailed breakdowns are separated into dedicated documentation files.
 
 ```
-/docs
    ├── microservices-overview.md
    ├── database-schema.md
-   └── deployment-strategy.md
+   └── deployment-strategy.md 
 ```
 
 ---
