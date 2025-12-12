@@ -1,5 +1,5 @@
 
-# **SMTS – AI Proctored Examination System**
+# ** AI Proctored Examination System**
 
 SMTS is a full-scale AI-powered online examination platform designed to ensure **secure, scalable, and intelligent remote assessments**.
 The system enables institutions, professors, and students to conduct and participate in exams with advanced **AI proctoring**, real-time monitoring, automated evaluation, question generation, and support for programming-based practical exams.
@@ -29,7 +29,6 @@ Each microservice has its own responsibilities, database layer, internal APIs, a
 ### **🔹 Databases**
 
 * **MySQL** → Core structured transactional data (users, exams, questions, submissions, results, notifications)
-* **MongoDB** → High-volume event logs & AI proctoring data
 * **S3/MinIO Storage** → Captured proctoring images
 
 ### **🔹 Supporting Services**
